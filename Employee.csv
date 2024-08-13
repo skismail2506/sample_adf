@@ -1,0 +1,37 @@
+﻿Employee_id,store_id,department_id,firstname,lastname,Country,age,gender,email,phone
+32,st011,1,Deloria,Cornelia,"Bahrain, 4",37,female,Deloria.Cornelia@step2c.com,+2120000003
+7,st003,1,Sophia,Keelia,"Bolivia, 3",53,male,Sophia.Keelia@step2c.com,+3300000001
+8,st003,1,Trudie,Isacco,"Bolivia, 3",46,female,Trudie.Isacco@step2c.com,+3300000002
+15,st005,3,Margarette,Delp,"Bolivia, 3",54,male,Margarette.Delp@step2c.com,+5400000003
+6,st002,3,Leia,Truc,"Canada, 2",33,female,Leia.Truc@step2c.com,+4900000006
+26,st009,2,Nonnah,Blake,"Colombia, 3",31,male,Nonnah.Blake@step2c.com,+9100000005
+4,st002,1,Oralee,Joachim,"Egypt, 5",36,female,Oralee.Joachim@step2c.com,+4900000004
+14,st005,2,Tressa,Ball,"Egypt, 5",44,female,Tressa.Ball@step2c.com,+5400000002
+30,st010,3,Andeee,Emanuel,"France, 1",47,female,Andeee.Emanuel@step2c.com,+9120000003
+31,st011,1,Jobi,Tayib,"France, 1",24,male,Jobi.Tayib@step2c.com,+2120000002
+24,st008,3,Jaime,Capello,"Germany, 1",32,female,Jaime.Capello@step2c.com,+1000000004
+34,st012,1,Zondra,Grayce,"Germany, 1",53,male,Zondra.Grayce@step2c.com,+2700000001
+35,st012,2,Gratia,Dichy,"Germany, 1",20,male,Gratia.Dichy@step2c.com,+2700000002
+36,st012,3,Adriana,Jagir,"Germany, 1",61,female,Adriana.Jagir@step2c.com,+2700000003
+3,st001,1,Ofilia,Laverne,"India, 4",48,male,Ofilia.Laverne@step2c.com,+4400000003
+18,st006,3,Codie,Madelene,"Indonesia, 4",54,female,Codie.Madelene@step2c.com,+5500000007
+17,st006,2,Shannah,Dorcy,"Kenya, 5",47,male,Shannah.Dorcy@step2c.com,+5500000006
+20,st007,2,Lusa,Vanni,"Kenya, 5",42,female,Lusa.Vanni@step2c.com,+1000000008
+27,st009,3,Sue,Gemini,"Mexico, 3",46,male,Sue.Gemini@step2c.com,+9100000003
+28,st010,1,Madeleine,Lattie,"Mexico, 3",43,female,Madeleine.Lattie@step2c.com,+9120000001
+19,st007,1,Siana,Even,"Nepal, 4",45,female,Siana.Even@step2c.com,+1000000007
+1,st001,1,Janis,Hepsibah,"Oman, 4",53,female,Janis.Hepsibah@step2c.com,+4400000001
+29,st010,2,Rhea,Azeria,"Oman, 4",41,female,Rhea.Azeria@step2c.com,+9120000002
+33,st011,1,Cristabel,Christine,"Canada, 2",27,male,Cristabel.Christine@step2c.com,+2120000004
+2,st001,2,Ilse,Blase,"Saudi Arabia, 4",65,female,Ilse.Blase@step2c.com,+4400000002
+23,st008,2,Marsiella,Abram,"Saudi Arabia, 4",21,male,Marsiella.Abram@step2c.com,+1000000003
+10,st004,1,Fred,Stoller,"Spain, 1",23,male,Fred.Stoller@step2c.com,39000000011
+11,st004,2,Steffane,Kat,"Spain, 1",26,female,Steffane.Kat@step2c.com,39000000012
+22,st008,1,Lorenza,Belanger,"Spain, 1",55,male,Lorenza.Belanger@step2c.com,+1000000002
+5,st002,2,Pierette,Hubert,"USA, 2",57,male,Pierette.Hubert@step2c.com,+4900000005
+12,st004,1,Ingrid,Pacorro,"USA, 2",22,male,Ingrid.Pacorro@step2c.com,39000000013
+13,st005,1,Sonni,Euridice,"USA, 2",31,male,Sonni.Euridice@step2c.com,+5400000001
+16,st006,1,Cathyleen,Garrison,"USA, 2",52,male,Cathyleen.Garrison@step2c.com,+5500000005
+21,st007,3,Letizia,Chrystel,"India, 4",57,male,Letizia.Chrystel@step2c.com,+1000000009
+25,st009,1,Cecile,LaRue,"Venezuela, 3",38,female,Cecile.LaRue@step2c.com,+9100000004
+9,st003,3,Hayley,Arne,"Yemen, 5",57,female,Hayley.Arne@step2c.com,+3300000003
